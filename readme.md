@@ -1,1 +1,1 @@
-# All cars in the world
+# All vehicles in the world
